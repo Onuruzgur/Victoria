@@ -1,2 +1,2 @@
 # Victoria
-A replica of the Amazon Alexa product
+In this project, an attempt was made to imitate the Amazon Alexa product.
